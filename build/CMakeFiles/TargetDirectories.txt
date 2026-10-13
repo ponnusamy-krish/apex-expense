@@ -1,0 +1,5 @@
+/home/mount/disk/playground/anti/cpp_apps/first/build/CMakeFiles/ApexExpense.dir
+/home/mount/disk/playground/anti/cpp_apps/first/build/CMakeFiles/edit_cache.dir
+/home/mount/disk/playground/anti/cpp_apps/first/build/CMakeFiles/rebuild_cache.dir
+/home/mount/disk/playground/anti/cpp_apps/first/build/CMakeFiles/ApexExpense_autogen_timestamp_deps.dir
+/home/mount/disk/playground/anti/cpp_apps/first/build/CMakeFiles/ApexExpense_autogen.dir

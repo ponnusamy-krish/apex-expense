@@ -1,0 +1,463 @@
+CMakeFiles/ApexExpense.dir/src/main.cpp.o: \
+ /home/mount/disk/playground/anti/cpp_apps/first/src/main.cpp \
+ /usr/include/stdc-predef.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QApplication \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtwidgetsglobal.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qtguiglobal.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qglobal.h \
+ /usr/include/c++/13/type_traits \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/bits/timesize.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/long-double.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/cpu_defines.h \
+ /usr/include/c++/13/pstl/pstl_config.h /usr/include/c++/13/cstddef \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+ /usr/include/c++/13/utility /usr/include/c++/13/bits/stl_relops.h \
+ /usr/include/c++/13/bits/stl_pair.h /usr/include/c++/13/bits/move.h \
+ /usr/include/c++/13/bits/utility.h /usr/include/c++/13/initializer_list \
+ /usr/include/assert.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qconfig.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qtcore-config.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qsystemdetection.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qprocessordetection.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qcompilerdetection.h \
+ /usr/include/c++/13/algorithm /usr/include/c++/13/bits/stl_algobase.h \
+ /usr/include/c++/13/bits/functexcept.h \
+ /usr/include/c++/13/bits/exception_defines.h \
+ /usr/include/c++/13/bits/cpp_type_traits.h \
+ /usr/include/c++/13/ext/type_traits.h \
+ /usr/include/c++/13/ext/numeric_traits.h \
+ /usr/include/c++/13/bits/stl_iterator_base_types.h \
+ /usr/include/c++/13/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/13/bits/concept_check.h \
+ /usr/include/c++/13/debug/assertions.h \
+ /usr/include/c++/13/bits/stl_iterator.h \
+ /usr/include/c++/13/bits/ptr_traits.h /usr/include/c++/13/debug/debug.h \
+ /usr/include/c++/13/bits/predefined_ops.h /usr/include/c++/13/bit \
+ /usr/include/c++/13/bits/stl_algo.h \
+ /usr/include/c++/13/bits/algorithmfwd.h \
+ /usr/include/c++/13/bits/stl_heap.h \
+ /usr/include/c++/13/bits/uniform_int_dist.h \
+ /usr/include/c++/13/bits/stl_tempbuf.h /usr/include/c++/13/new \
+ /usr/include/c++/13/bits/exception.h \
+ /usr/include/c++/13/bits/stl_construct.h /usr/include/c++/13/cstdlib \
+ /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+ /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+ /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/time64.h \
+ /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-intn.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endianness.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+ /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+ /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+ /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+ /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ /usr/include/c++/13/bits/std_abs.h \
+ /usr/include/c++/13/pstl/glue_algorithm_defs.h \
+ /usr/include/c++/13/pstl/execution_defs.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qtypeinfo.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qsysinfo.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qlogging.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qflags.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qatomic.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qbasicatomic.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qatomic_cxx11.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qgenericatomic.h \
+ /usr/include/c++/13/atomic /usr/include/c++/13/bits/atomic_base.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+ /usr/include/c++/13/bits/atomic_lockfree_defines.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qglobalstatic.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qnumeric.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qversiontagging.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qtgui-config.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtwidgets-config.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qcoreapplication.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qstring.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qchar.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qbytearray.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qrefcount.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qnamespace.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qarraydata.h \
+ /usr/include/string.h /usr/include/strings.h \
+ /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+ /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+ /usr/include/c++/13/stdlib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+ /usr/include/c++/13/string /usr/include/c++/13/bits/requires_hosted.h \
+ /usr/include/c++/13/bits/stringfwd.h \
+ /usr/include/c++/13/bits/memoryfwd.h \
+ /usr/include/c++/13/bits/char_traits.h \
+ /usr/include/c++/13/bits/postypes.h /usr/include/c++/13/cwchar \
+ /usr/include/wchar.h /usr/include/x86_64-linux-gnu/bits/types/wint_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+ /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar2-decl.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar2.h \
+ /usr/include/c++/13/bits/allocator.h \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/c++allocator.h \
+ /usr/include/c++/13/bits/new_allocator.h \
+ /usr/include/c++/13/bits/localefwd.h \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/c++locale.h \
+ /usr/include/c++/13/clocale /usr/include/locale.h \
+ /usr/include/x86_64-linux-gnu/bits/locale.h /usr/include/c++/13/iosfwd \
+ /usr/include/c++/13/cctype /usr/include/ctype.h \
+ /usr/include/c++/13/bits/ostream_insert.h \
+ /usr/include/c++/13/bits/cxxabi_forced.h \
+ /usr/include/c++/13/bits/stl_function.h \
+ /usr/include/c++/13/backward/binders.h \
+ /usr/include/c++/13/bits/refwrap.h /usr/include/c++/13/bits/invoke.h \
+ /usr/include/c++/13/bits/range_access.h \
+ /usr/include/c++/13/bits/basic_string.h \
+ /usr/include/c++/13/ext/alloc_traits.h \
+ /usr/include/c++/13/bits/alloc_traits.h /usr/include/c++/13/string_view \
+ /usr/include/c++/13/bits/functional_hash.h \
+ /usr/include/c++/13/bits/hash_bytes.h \
+ /usr/include/c++/13/bits/string_view.tcc \
+ /usr/include/c++/13/ext/string_conversions.h /usr/include/c++/13/cstdio \
+ /usr/include/stdio.h /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+ /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/c++/13/cerrno \
+ /usr/include/errno.h /usr/include/x86_64-linux-gnu/bits/errno.h \
+ /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
+ /usr/include/c++/13/bits/charconv.h \
+ /usr/include/c++/13/bits/basic_string.tcc \
+ /usr/include/c++/13/bits/memory_resource.h \
+ /usr/include/c++/13/bits/uses_allocator.h \
+ /usr/include/c++/13/bits/uses_allocator_args.h /usr/include/c++/13/tuple \
+ /usr/include/c++/13/iterator /usr/include/c++/13/bits/stream_iterator.h \
+ /usr/include/c++/13/bits/streambuf_iterator.h \
+ /usr/include/c++/13/streambuf /usr/include/c++/13/bits/ios_base.h \
+ /usr/include/c++/13/ext/atomicity.h \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/gthr.h \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/gthr-default.h \
+ /usr/include/pthread.h /usr/include/sched.h \
+ /usr/include/x86_64-linux-gnu/bits/sched.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h \
+ /usr/include/x86_64-linux-gnu/bits/cpu-set.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/timex.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
+ /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/atomic_word.h \
+ /usr/include/x86_64-linux-gnu/sys/single_threaded.h \
+ /usr/include/c++/13/bits/locale_classes.h \
+ /usr/include/c++/13/bits/locale_classes.tcc \
+ /usr/include/c++/13/system_error \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/error_constants.h \
+ /usr/include/c++/13/stdexcept /usr/include/c++/13/exception \
+ /usr/include/c++/13/bits/exception_ptr.h \
+ /usr/include/c++/13/bits/cxxabi_init_exception.h \
+ /usr/include/c++/13/typeinfo /usr/include/c++/13/bits/nested_exception.h \
+ /usr/include/c++/13/bits/streambuf.tcc \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qstringliteral.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qstringalgorithms.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qstringview.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qobject.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qobjectdefs.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qobjectdefs_impl.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qlist.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qiterator.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qhashfunctions.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qpair.h \
+ /usr/include/c++/13/numeric /usr/include/c++/13/bits/stl_numeric.h \
+ /usr/include/c++/13/pstl/glue_numeric_defs.h \
+ /usr/include/c++/13/functional /usr/include/c++/13/bits/std_function.h \
+ /usr/include/c++/13/unordered_map \
+ /usr/include/c++/13/bits/unordered_map.h \
+ /usr/include/c++/13/bits/hashtable.h \
+ /usr/include/c++/13/bits/hashtable_policy.h \
+ /usr/include/c++/13/ext/aligned_buffer.h \
+ /usr/include/c++/13/bits/enable_special_members.h \
+ /usr/include/c++/13/bits/node_handle.h \
+ /usr/include/c++/13/bits/erase_if.h /usr/include/c++/13/vector \
+ /usr/include/c++/13/bits/stl_uninitialized.h \
+ /usr/include/c++/13/bits/stl_vector.h \
+ /usr/include/c++/13/bits/stl_bvector.h \
+ /usr/include/c++/13/bits/vector.tcc /usr/include/c++/13/array \
+ /usr/include/c++/13/compare \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qvector.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qcontainertools_impl.h \
+ /usr/include/c++/13/list /usr/include/c++/13/bits/stl_list.h \
+ /usr/include/c++/13/bits/allocated_ptr.h \
+ /usr/include/c++/13/bits/list.tcc \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h \
+ /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+ /usr/include/linux/limits.h \
+ /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qbytearraylist.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qstringlist.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qregexp.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qstringmatcher.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qscopedpointer.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qmetatype.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qvarlengtharray.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qcontainerfwd.h \
+ /usr/include/c++/13/map /usr/include/c++/13/bits/stl_tree.h \
+ /usr/include/c++/13/bits/stl_map.h \
+ /usr/include/c++/13/bits/stl_multimap.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qobject_impl.h \
+ /usr/include/c++/13/chrono /usr/include/c++/13/bits/chrono.h \
+ /usr/include/c++/13/ratio /usr/include/c++/13/cstdint \
+ /usr/include/c++/13/limits /usr/include/c++/13/ctime \
+ /usr/include/c++/13/bits/parse_numbers.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qcoreevent.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qeventloop.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qpoint.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qsize.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qmargins.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qcursor.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qguiapplication.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qinputmethod.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qlocale.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qvariant.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qmap.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qhash.h \
+ /usr/include/c++/13/variant \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qshareddata.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QFile \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qfile.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qfiledevice.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qiodevice.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QDir \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qdir.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qfileinfo.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qfile.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QFileInfo \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qfileinfo.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QDebug \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qdebug.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qtextstream.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qset.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qcontiguouscache.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qsharedpointer.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qsharedpointer_impl.h \
+ /usr/include/c++/13/memory \
+ /usr/include/c++/13/bits/stl_raw_storage_iter.h \
+ /usr/include/c++/13/bits/align.h /usr/include/c++/13/bits/unique_ptr.h \
+ /usr/include/c++/13/bits/shared_ptr.h \
+ /usr/include/c++/13/bits/shared_ptr_base.h \
+ /usr/include/c++/13/ext/concurrence.h \
+ /usr/include/c++/13/bits/shared_ptr_atomic.h \
+ /usr/include/c++/13/backward/auto_ptr.h \
+ /usr/include/c++/13/pstl/glue_memory_defs.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QStyleFactory \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstylefactory.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/QPalette \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qpalette.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qcolor.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qrgb.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qrgba64.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qbrush.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qmatrix.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qpolygon.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qrect.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qregion.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qdatastream.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qline.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qtransform.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qimage.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qpaintdevice.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qpixelformat.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qpixmap.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QComboBox \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qcombobox.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qpalette.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qfont.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qfontmetrics.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qfontinfo.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsizepolicy.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qkeysequence.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractitemdelegate.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyleoption.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractspinbox.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qvalidator.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qregularexpression.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qslider.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractslider.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyle.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabbar.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qrubberband.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qabstractitemmodel.h \
+ /home/mount/disk/playground/anti/cpp_apps/first/src/database/DatabaseManager.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QObject \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qobject.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtSql/QSqlDatabase \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtSql/qsqldatabase.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtSql/qtsqlglobal.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtSql/qtsql-config.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QList \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qlist.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QMap \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qmap.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QDateTime \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qdatetime.h \
+ /home/mount/disk/playground/anti/cpp_apps/first/src/database/../models/Category.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QString \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qstring.h \
+ /home/mount/disk/playground/anti/cpp_apps/first/src/database/../models/Transaction.h \
+ /home/mount/disk/playground/anti/cpp_apps/first/src/database/../models/Budget.h \
+ /home/mount/disk/playground/anti/cpp_apps/first/src/utils/CurrencyFormatter.h \
+ /home/mount/disk/playground/anti/cpp_apps/first/src/ui/MainWindow.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMainWindow \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmainwindow.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QStackedWidget \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstackedwidget.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QPushButton \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractbutton.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QButtonGroup \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qbuttongroup.h \
+ /home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/DashboardView.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QWidget \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QTableWidget \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtablewidget.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtableview.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractitemview.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractscrollarea.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qitemselectionmodel.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/QChartView \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/qchartview.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/QAbstractAxis \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/qabstractaxis.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/QChartGlobal \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/qchartglobal.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QtGlobal \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qglobal.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/QPen \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qpen.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/QFont \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qfont.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QVariant \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qvariant.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/QAbstractSeries \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/qabstractseries.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QObject \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/QChart \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/qchart.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/QLegend \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/qlegend.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QGraphicsWidget \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicswidget.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicslayoutitem.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qevent.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qurl.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qvector2d.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qtouchdevice.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsitem.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qpainterpath.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/QBrush \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qbrush.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QMargins \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qmargins.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QGraphicsView \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsview.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qpainter.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextoption.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qpen.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qscrollarea.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsscene.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/QPieSeries \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/qpieseries.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/QPieSlice \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/qpieslice.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/QBarSeries \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/qbarseries.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/QAbstractBarSeries \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/qabstractbarseries.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QStringList \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qstringlist.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/QBarSet \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/qbarset.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/QBarCategoryAxis \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/qbarcategoryaxis.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/QValueAxis \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts/qvalueaxis.h \
+ /home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/../components/MetricCard.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QFrame \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLabel \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QVBoxLayout \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QHBoxLayout \
+ /home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/TransactionsView.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLineEdit \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlineedit.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextcursor.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextformat.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QDateEdit \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdatetimeedit.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qdatetime.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/qcalendar.h \
+ /home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/BudgetsView.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QScrollArea \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qscrollarea.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QProgressBar \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qprogressbar.h \
+ /home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore/QDate \
+ /home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/AnalyticsView.h \
+ /home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/SettingsView.h

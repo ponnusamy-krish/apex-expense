@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/mount/disk/playground/anti/cpp_apps/first/build/ApexExpense_autogen",
+	"CMAKE_BINARY_DIR" : "/home/mount/disk/playground/anti/cpp_apps/first/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/mount/disk/playground/anti/cpp_apps/first/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/mount/disk/playground/anti/cpp_apps/first",
+	"CMAKE_SOURCE_DIR" : "/home/mount/disk/playground/anti/cpp_apps/first",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/mount/disk/playground/anti/cpp_apps/first/build/ApexExpense_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/mount/disk/playground/anti/cpp_apps/first/resources/styles/modern_dark.qss"
+	],
+	"LOCK_FILE" : "/home/mount/disk/playground/anti/cpp_apps/first/build/CMakeFiles/ApexExpense_autogen.dir/AutoRcc_app_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "app" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_app.cpp",
+	"RCC_EXECUTABLE" : "/home/mount/.local/qt5/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/mount/disk/playground/anti/cpp_apps/first/build/CMakeFiles/ApexExpense_autogen.dir/AutoRcc_app_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "/home/mount/disk/playground/anti/cpp_apps/first/resources/app.qrc",
+	"VERBOSITY" : 0
+}

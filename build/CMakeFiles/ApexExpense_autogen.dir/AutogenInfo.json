@@ -1,0 +1,364 @@
+{
+	"BUILD_DIR" : "/home/mount/disk/playground/anti/cpp_apps/first/build/ApexExpense_autogen",
+	"CMAKE_BINARY_DIR" : "/home/mount/disk/playground/anti/cpp_apps/first/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/mount/disk/playground/anti/cpp_apps/first/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/mount/disk/playground/anti/cpp_apps/first",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/mount/disk/playground/anti/cpp_apps/first/CMakeLists.txt",
+		"/home/mount/disk/playground/anti/cpp_apps/first/build/CMakeFiles/3.28.3/CMakeSystem.cmake",
+		"/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/usr/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake",
+		"/home/mount/disk/playground/anti/cpp_apps/first/build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake",
+		"/usr/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake",
+		"/usr/share/cmake-3.28/Modules/CMakeGenericSystem.cmake",
+		"/usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake",
+		"/usr/share/cmake-3.28/Modules/Platform/Linux.cmake",
+		"/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake",
+		"/usr/share/cmake-3.28/Modules/CMakeCXXInformation.cmake",
+		"/usr/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake",
+		"/usr/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake",
+		"/usr/share/cmake-3.28/Modules/Compiler/GNU.cmake",
+		"/usr/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/usr/share/cmake-3.28/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/usr/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake",
+		"/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/usr/share/cmake-3.28/Modules/CMakeParseArguments.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/usr/share/cmake-3.28/Modules/CMakeParseArguments.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Charts/Qt5ChartsConfigVersion.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Charts/Qt5ChartsConfig.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Sql/Qt5SqlConfig.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/home/mount/disk/playground/anti/cpp_apps/first/resources/app.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/mount/disk/playground/anti/cpp_apps/first",
+	"DEP_FILE" : "/home/mount/disk/playground/anti/cpp_apps/first/build/ApexExpense_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "ApexExpense_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/database/DatabaseManager.h",
+			"MU",
+			"M7KQ2GL7XF/moc_DatabaseManager.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/models/Budget.h",
+			"MU",
+			"M4YTXQ7V2H/moc_Budget.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/models/Category.h",
+			"MU",
+			"M4YTXQ7V2H/moc_Category.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/models/Transaction.h",
+			"MU",
+			"M4YTXQ7V2H/moc_Transaction.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/MainWindow.h",
+			"MU",
+			"YPKJ5OE7LN/moc_MainWindow.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/components/CategoryPill.h",
+			"MU",
+			"DFYB2GAN4A/moc_CategoryPill.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/components/MetricCard.h",
+			"MU",
+			"DFYB2GAN4A/moc_MetricCard.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/components/ToastNotification.h",
+			"MU",
+			"DFYB2GAN4A/moc_ToastNotification.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/dialogs/BudgetDialog.h",
+			"MU",
+			"IYECXEJARV/moc_BudgetDialog.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/dialogs/CategoryDialog.h",
+			"MU",
+			"IYECXEJARV/moc_CategoryDialog.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/dialogs/TransactionDialog.h",
+			"MU",
+			"IYECXEJARV/moc_TransactionDialog.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/AnalyticsView.h",
+			"MU",
+			"J3CC273FWE/moc_AnalyticsView.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/BudgetsView.h",
+			"MU",
+			"J3CC273FWE/moc_BudgetsView.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/DashboardView.h",
+			"MU",
+			"J3CC273FWE/moc_DashboardView.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/SettingsView.h",
+			"MU",
+			"J3CC273FWE/moc_SettingsView.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/TransactionsView.h",
+			"MU",
+			"J3CC273FWE/moc_TransactionsView.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/utils/CsvHandler.h",
+			"MU",
+			"VSCBVMNR7M/moc_CsvHandler.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/utils/CurrencyFormatter.h",
+			"MU",
+			"VSCBVMNR7M/moc_CurrencyFormatter.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/utils/HtmlReportGenerator.h",
+			"MU",
+			"VSCBVMNR7M/moc_HtmlReportGenerator.cpp",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/utils/JsonHandler.h",
+			"MU",
+			"VSCBVMNR7M/moc_JsonHandler.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/mount/disk/playground/anti/cpp_apps/first/build/ApexExpense_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/mount/disk/playground/anti/cpp_apps/first/build/ApexExpense_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CHARTS_LIB",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_SQL_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/mount/disk/playground/anti/cpp_apps/first/src",
+		"/home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5",
+		"/home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/home/mount/.local/qt5/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtCharts",
+		"/home/mount/.local/qt5/usr/include/x86_64-linux-gnu/qt5/QtSql",
+		"/usr/include/c++/13",
+		"/usr/include/x86_64-linux-gnu/c++/13",
+		"/usr/include/c++/13/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/13/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/mount/disk/playground/anti/cpp_apps/first/build/ApexExpense_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/mount/disk/playground/anti/cpp_apps/first/build/CMakeFiles/ApexExpense_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/mount/.local/qt5/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/home/mount/.local/qt5/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/mount/disk/playground/anti/cpp_apps/first/build/CMakeFiles/ApexExpense_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/database/DatabaseManager.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/MainWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/components/CategoryPill.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/components/MetricCard.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/components/ToastNotification.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/dialogs/BudgetDialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/dialogs/CategoryDialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/dialogs/TransactionDialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/AnalyticsView.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/BudgetsView.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/DashboardView.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/SettingsView.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/ui/views/TransactionsView.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/utils/CsvHandler.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/utils/CurrencyFormatter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/utils/HtmlReportGenerator.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mount/disk/playground/anti/cpp_apps/first/src/utils/JsonHandler.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
